@@ -1,0 +1,182 @@
+# depslib dependency file v1.0
+1591461397 source:c:\users\angel\desktop\pia_c++_2020\src\password.cpp
+	"Password.h"
+	<iostream>
+
+1591461922 c:\users\angel\desktop\pia_c++_2020\include\password.h
+	<iostream>
+
+1591492243 source:c:\users\angel\desktop\pia_c++_2020\main.cpp
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+	<functional>
+	<Persona.h>
+	<vector>
+	<Usuario_comun.h>
+	<Administrador.h>
+
+1591486065 source:c:\users\angel\desktop\pia_c++_2020\src\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1591479925 c:\users\angel\desktop\pia_c++_2020\include\persona.h
+	<iostream>
+
+1591482865 source:c:\users\angel\desktop\pia_c++_2020\src\usuario_comun.cpp
+	"Usuario_comun.h"
+	<iostream>
+
+1591482942 c:\users\angel\desktop\pia_c++_2020\include\usuario_comun.h
+	<Persona.h>
+	<iostream>
+
+1591480596 source:c:\users\angel\desktop\pia_c++_2020\src\administrador.cpp
+	"Administrador.h"
+
+1591480263 c:\users\angel\desktop\pia_c++_2020\include\administrador.h
+	<Persona.h>
+
+1591572573 source:c:\users\pablo\documents\emiliano\fcfm\cpp\cpp pia\pia_c_2020_3\pia_c++_2020\main.cpp
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+	<functional>
+	<Persona.h>
+	<vector>
+	<Usuario_comun.h>
+	<Administrador.h>
+
+1591479926 c:\users\pablo\documents\emiliano\fcfm\cpp\cpp pia\pia_c_2020_3\pia_c++_2020\include\persona.h
+	<iostream>
+
+1591482944 c:\users\pablo\documents\emiliano\fcfm\cpp\cpp pia\pia_c_2020_3\pia_c++_2020\include\usuario_comun.h
+	<Persona.h>
+	<iostream>
+
+1591480264 c:\users\pablo\documents\emiliano\fcfm\cpp\cpp pia\pia_c_2020_3\pia_c++_2020\include\administrador.h
+	<Persona.h>
+
+1591480598 source:c:\users\pablo\documents\emiliano\fcfm\cpp\cpp pia\pia_c_2020_3\pia_c++_2020\src\administrador.cpp
+	"Administrador.h"
+
+1591486066 source:c:\users\pablo\documents\emiliano\fcfm\cpp\cpp pia\pia_c_2020_3\pia_c++_2020\src\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1591482866 source:c:\users\pablo\documents\emiliano\fcfm\cpp\cpp pia\pia_c_2020_3\pia_c++_2020\src\usuario_comun.cpp
+	"Usuario_comun.h"
+	<iostream>
+
+1591593599 source:c:\users\jorge quintanilla\desktop\ene-jun 2020\c++\pia_c_2020_5\pia_c_2020_3\pia_c++_2020\main.cpp
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+	<functional>
+	<Persona.h>
+	<vector>
+	<Usuario_comun.h>
+	<Administrador.h>
+
+1591593388 c:\users\jorge quintanilla\desktop\ene-jun 2020\c++\pia_c_2020_5\pia_c_2020_3\pia_c++_2020\include\persona.h
+	<iostream>
+
+1591482944 c:\users\jorge quintanilla\desktop\ene-jun 2020\c++\pia_c_2020_5\pia_c_2020_3\pia_c++_2020\include\usuario_comun.h
+	<Persona.h>
+	<iostream>
+
+1591480264 c:\users\jorge quintanilla\desktop\ene-jun 2020\c++\pia_c_2020_5\pia_c_2020_3\pia_c++_2020\include\administrador.h
+	<Persona.h>
+
+1591480598 source:c:\users\jorge quintanilla\desktop\ene-jun 2020\c++\pia_c_2020_5\pia_c_2020_3\pia_c++_2020\src\administrador.cpp
+	"Administrador.h"
+
+1591486066 source:c:\users\jorge quintanilla\desktop\ene-jun 2020\c++\pia_c_2020_5\pia_c_2020_3\pia_c++_2020\src\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1591482866 source:c:\users\jorge quintanilla\desktop\ene-jun 2020\c++\pia_c_2020_5\pia_c_2020_3\pia_c++_2020\src\usuario_comun.cpp
+	"Usuario_comun.h"
+	<iostream>
+
+1591614139 source:c:\users\angel\desktop\pia_c_2020\pia_c++_2020\main.cpp
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+	<functional>
+	<Persona.h>
+	<vector>
+	<Usuario_comun.h>
+	<Administrador.h>
+
+1591599506 c:\users\angel\desktop\pia_c_2020\pia_c++_2020\include\persona.h
+	<iostream>
+
+1591482944 c:\users\angel\desktop\pia_c_2020\pia_c++_2020\include\usuario_comun.h
+	<Persona.h>
+	<iostream>
+
+1591597950 c:\users\angel\desktop\pia_c_2020\pia_c++_2020\include\administrador.h
+	<Persona.h>
+
+1591599817 source:c:\users\angel\desktop\pia_c_2020\pia_c++_2020\src\administrador.cpp
+	"Administrador.h"
+	<fstream>
+	<vector>
+	<Usuario_comun.h>
+
+1591599506 source:c:\users\angel\desktop\pia_c_2020\pia_c++_2020\src\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1591482866 source:c:\users\angel\desktop\pia_c_2020\pia_c++_2020\src\usuario_comun.cpp
+	"Usuario_comun.h"
+	<iostream>
+
+1591678928 source:c:\users\angel\downloads\pia_c_2020_v13\pia_c_2020\pia_c++_2020\src\administrador.cpp
+	"Administrador.h"
+	<fstream>
+	<vector>
+	<Usuario_comun.h>
+
+1591597952 c:\users\angel\downloads\pia_c_2020_v13\pia_c_2020\pia_c++_2020\include\administrador.h
+	<Persona.h>
+
+1591599508 c:\users\angel\downloads\pia_c_2020_v13\pia_c_2020\pia_c++_2020\include\persona.h
+	<iostream>
+
+1591482944 c:\users\angel\downloads\pia_c_2020_v13\pia_c_2020\pia_c++_2020\include\usuario_comun.h
+	<Persona.h>
+	<iostream>
+
+1591599508 source:c:\users\angel\downloads\pia_c_2020_v13\pia_c_2020\pia_c++_2020\src\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1591482866 source:c:\users\angel\downloads\pia_c_2020_v13\pia_c_2020\pia_c++_2020\src\usuario_comun.cpp
+	"Usuario_comun.h"
+	<iostream>
+
+1591678928 source:c:\users\angel\downloads\pia_c_2020_v13\pia_c_2020\pia_c++_2020\main.cpp
+	<string>
+	<stdio.h>
+	<ctype.h>
+	<exception>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+	<functional>
+	<Persona.h>
+	<vector>
+	<Usuario_comun.h>
+	<Administrador.h>
+
